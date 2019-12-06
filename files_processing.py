@@ -3,16 +3,8 @@ import shutil
 import codecs
 
 
-files = os.listdir("/home/priyanka/Desktop/Summarization/dataset_processing/")
-
-for dir_name in files:
-	if dir_name.endswith(".zip"):
-		print(dir_name)
-
-#exit()
-
 #Creating folders in target location
-path = '10301_10400'
+path = '10301_10400' # give the foldername
 limit = path.split('_')
 if(len(limit)>1):
     start = int(limit[0])
@@ -31,7 +23,7 @@ else:
 
 #copying files to folders in target location
 path = 'dataset/'
-copyPath = '10301_10400'
+copyPath = '10301_10400' # give the foldername
 
 files = []
 # r=root, d=directories, f = files
