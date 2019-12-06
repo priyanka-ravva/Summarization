@@ -5,7 +5,7 @@
 
 # Instructions:
 
-Clone the github repository: https://github.com/priyanka-ravva/Summarization.git
+Clone the github repository: git clone https://github.com/priyanka-ravva/Summarization.git
 
 Run:  python files_processing.py 
 
