@@ -15,10 +15,10 @@ Download the files_processing.py python script
 
 2) Extract the ZIP file and rename the folder name as ‘dataset’ [ Ex: 10301_10400 → dataset ]
 
-3) Create a new empty folder and name it as ‘ZIP filename without extension’ [ Ex: 10301_10400 ] Give this path/foldername in python script where at line 7 & line 26
+3) Create a new empty folder and name it as ‘ZIP filename without extension’ [ Ex: 10301_10400 ] --> give this path/foldername in python script where at line 7 & line 26
 
 4) Run the python script [ Ex: python files_processing.py ]
 
 
-Output:
+# Output:
 Now you will have 100 folders in 10301_10400 directory.
