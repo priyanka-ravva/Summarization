@@ -1,6 +1,9 @@
 # Abstractive Summarization Dataset creation
 
-# Instructions for provided 100 article zip file processing:
+# Requirements
+ python
+
+# Instructions:
 
 Clone the github repository: https://github.com/priyanka-ravva/Summarization.git
 
